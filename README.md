@@ -1,4 +1,8 @@
 # Fake SNMPTN Generator
 
-Cara pakai?
-ya kali gak tau cara upload sc :v
+## Cara pakai?
+Bisa Menggunakan XAMPP
+Upload File ini di /xampp/htdocs 
+
+## Jalankan
+Sesudah Menyimpan Filenya Jalankan di Browser ketikan localhost/snmptn
